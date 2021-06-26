@@ -1,0 +1,7 @@
+.weather_status {
+  display: inline-flex;
+}
+
+.weather_right {
+  padding-left: 15px;
+}
